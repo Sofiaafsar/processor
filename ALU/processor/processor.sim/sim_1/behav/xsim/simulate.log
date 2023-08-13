@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Result: 10011111, Flag: 1000
+Result: 00100111, Flag: 0110
+Result: 01111111, Flag: 0110
+Result: 01011111, Flag: 0110
+Result: 00110100, Flag: 0110
+Result: 01100011, Flag: 0110
+Result: 00100000, Flag: 0110
+$finish called at time : 142 ns : File "C:/Users/DELL/Downloads/processor/processor/processor.srcs/sim_1/new/tb.v" Line 97

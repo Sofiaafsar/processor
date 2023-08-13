@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Sun Aug 13 12:30:57 2023
+# Process ID: 4044
+# Current directory: C:/Users/DELL/Downloads/processor/processor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3248 C:\Users\DELL\Downloads\processor\processor\processor.xpr
+# Log file: C:/Users/DELL/Downloads/processor/processor/vivado.log
+# Journal file: C:/Users/DELL/Downloads/processor/processor\vivado.jou
+# Running On: DESKTOP-7M12IC3, OS: Windows, CPU Frequency: 1190 MHz, CPU Physical cores: 2, Host memory: 8345 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/DELL/Downloads/processor/processor/processor.xpr
+update_compile_order -fileset sources_1
